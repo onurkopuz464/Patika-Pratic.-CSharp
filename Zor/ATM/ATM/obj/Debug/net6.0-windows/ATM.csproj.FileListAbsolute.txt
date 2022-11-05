@@ -1,0 +1,17 @@
+C:\Users\ultra\source\repos\ATM\ATM\bin\Debug\net6.0-windows\ATM.exe
+C:\Users\ultra\source\repos\ATM\ATM\bin\Debug\net6.0-windows\ATM.deps.json
+C:\Users\ultra\source\repos\ATM\ATM\bin\Debug\net6.0-windows\ATM.runtimeconfig.json
+C:\Users\ultra\source\repos\ATM\ATM\bin\Debug\net6.0-windows\ATM.dll
+C:\Users\ultra\source\repos\ATM\ATM\bin\Debug\net6.0-windows\ATM.pdb
+C:\Users\ultra\source\repos\ATM\ATM\obj\Debug\net6.0-windows\ATM.csproj.AssemblyReference.cache
+C:\Users\ultra\source\repos\ATM\ATM\obj\Debug\net6.0-windows\ATM.Form1.resources
+C:\Users\ultra\source\repos\ATM\ATM\obj\Debug\net6.0-windows\ATM.csproj.GenerateResource.cache
+C:\Users\ultra\source\repos\ATM\ATM\obj\Debug\net6.0-windows\ATM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ultra\source\repos\ATM\ATM\obj\Debug\net6.0-windows\ATM.AssemblyInfoInputs.cache
+C:\Users\ultra\source\repos\ATM\ATM\obj\Debug\net6.0-windows\ATM.AssemblyInfo.cs
+C:\Users\ultra\source\repos\ATM\ATM\obj\Debug\net6.0-windows\ATM.csproj.CoreCompileInputs.cache
+C:\Users\ultra\source\repos\ATM\ATM\obj\Debug\net6.0-windows\ATM.dll
+C:\Users\ultra\source\repos\ATM\ATM\obj\Debug\net6.0-windows\refint\ATM.dll
+C:\Users\ultra\source\repos\ATM\ATM\obj\Debug\net6.0-windows\ATM.pdb
+C:\Users\ultra\source\repos\ATM\ATM\obj\Debug\net6.0-windows\ATM.genruntimeconfig.cache
+C:\Users\ultra\source\repos\ATM\ATM\obj\Debug\net6.0-windows\ref\ATM.dll
